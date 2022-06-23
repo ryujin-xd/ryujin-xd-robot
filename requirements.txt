@@ -46,7 +46,7 @@ TgCrypto
 pyrogram==2.0.17
 PyDictionary
 git+https://github.com/Sorrybabe/downloader
-youtube_search_python==1.6.3
+youtube_search_python==1.6.6
 youtube_search
 lyrics_extractor
 asyncio
